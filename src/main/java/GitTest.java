@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("Hello push to git-test01");
         System.out.println("Hello ssh push to git-test01");
         System.out.println("Hello ssh pull to git-test01");
+        System.out.println("Hello ssh push to git-test01 2");
 
     }
 }
